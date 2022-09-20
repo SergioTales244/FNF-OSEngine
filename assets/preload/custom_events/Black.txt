@@ -1,3 +1,0 @@
-Blackness
-value1: Opacity
-value2: Duration
